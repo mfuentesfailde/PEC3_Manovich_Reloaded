@@ -6,7 +6,7 @@
 - Exposición inmersiva inGoya
 - El telediario del futuro.
  
-(https://drive.google.com/file/d/1_5Lmq0JxiXwzZRe8Vs20CoNbaFmqaH-k/view?usp=sharing)
+<https://drive.google.com/file/d/1_5Lmq0JxiXwzZRe8Vs20CoNbaFmqaH-k/view?usp=sharing>
 
 **Introducción**
 
