@@ -8,7 +8,7 @@
  
 ![image info](./ingoya.png)
 
-**Introducción**
+**Introducción
 
 *Manovich* diferencia Multimedia con hibridación. En su libro explica que los medios multimedia son medios por separado, cuando visualizábamos un video, el ordenador está solo ejecutando ese video porque es su prioridad. Pensemos en los años noventa,  los ordenadores solo tenían capacidad para manejar algunos medios simultáneos pero su memoria era limitada y la velocidad de Internet no permitía visualizar animaciones complejas. Treinta años después el 4G y 5G nos permite una facilidad para poder entrelazar estos medios y  metamedios de forma nativa.
 
@@ -16,11 +16,14 @@ En la segunda parte de los noventa surge la hibridación de los medios combinand
 
 En este ensayo hablaremos de dos ejemplos de hibridación, una nueva exposición inmersiva de Goya y dos maneras de ver la realidad en un telediario del 2050.
 
-Exposición inGoya
+**Exposición inGoya
 
 Hace meses visité una exposición inmersiva de Goya, yo la visité en Madrid, aunque ahora la exposición se puede ver en [Valencia]( [https://ingoya.com/](https://ingoya.com/)). Si los museos grandes te abruman porque después de ver tres salas ya estás cansado de ver cuadros, pero al mismo tiempo te gusta ver arte, prueba con exposiciones inmersivas, es un nuevo método de consumir arte mucho más divertido.
 
 Yo visité la exposición en el centro cultural de *Fernán Gómez*, era un recito cerrado con poca visibilidad, para hacer que toda la iluminación estuviese en las paredes para visualizar los cuadros. Los cuadros ocupaban toda la pared, dos metros de alto como como muestra esta foto.
+
+![image info](./3MAYO.JPG)
+
 
 Una de las ventajas de las exposiciones de este tipo es que puedes hacer las fotos que quieras, cosa que en un museo no puedes. Así que como todo el mundo estaba haciendo fotos, pues yo también hice.
 
