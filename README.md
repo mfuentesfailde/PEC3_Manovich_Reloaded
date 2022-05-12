@@ -18,7 +18,7 @@ En este ensayo hablaremos de dos ejemplos de hibridación, una nueva exposición
 
 ###Exposición inGoya###
 
-Hace meses visité una exposición inmersiva de Goya, yo la visité en Madrid, aunque ahora la exposición se puede ver en [Valencia]( [https://ingoya.com/](https://ingoya.com/)). Si los museos grandes te abruman porque después de ver tres salas ya estás cansado de ver cuadros, pero al mismo tiempo te gusta ver arte, prueba con exposiciones inmersivas, es un nuevo método de consumir arte mucho más divertido.
+Hace meses visité una exposición inmersiva de Goya, yo la visité en Madrid, aunque ahora la exposición se puede ver en [Valencia](https://ingoya.com/). Si los museos grandes te abruman porque después de ver tres salas ya estás cansado de ver cuadros, pero al mismo tiempo te gusta ver arte, prueba con exposiciones inmersivas, es un nuevo método de consumir arte mucho más divertido.
 
 Yo visité la exposición en el centro cultural de *Fernán Gómez*, era un recito cerrado con poca visibilidad, para hacer que toda la iluminación estuviese en las paredes para visualizar los cuadros. Los cuadros ocupaban toda la pared, dos metros de alto como como muestra esta foto.
 
