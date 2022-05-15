@@ -14,7 +14,7 @@
 
 En la segunda parte de los noventa surge la hibridación de los medios combinando varios elementos multimedia que se perciben como un solo medio.
 
-Citando a Manovich menciona en su libro
+Citando a Manovich menciona en su libro:
  >Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Lev Manovich. 2013. 
 
 En este ensayo hablaremos de dos ejemplos de hibridación, una nueva exposición inmersiva de Goya y dos maneras de ver la realidad en un telediario del 2050.
