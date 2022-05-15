@@ -40,7 +40,7 @@ Otra de las ventajas de las exposiciones inmersivas es disfrutar de su banda son
 
 ![Telediario del futuro](./telediario.png)
 
-En esta [web](https://lab.rtve.es/lab/telediario-2050-cambio-climatico/)la televisión RTVE grabó una serie de videos simulando que estamos en el 2050. Por cada tema hay dos videos uno utópico y otro distópico. Tratan varios temas como el trasporte, la agricultura, la energía, la migración y la climatología. Los videos distópicos describen una realidad que puede ser muy cierta si no se actúa sobre el cambio climático. Y los videos utópicos como su nombre indica es todo lo contrario ya que describen una realidad donde lo más importante es el cambio climático, la ecología y el bien estar por encima de los intereses gubernamentales y económicos.
+En esta [web](https://lab.rtve.es/lab/telediario-2050-cambio-climatico/) la televisión RTVE grabó una serie de videos simulando que estamos en el 2050. Por cada tema hay dos videos uno utópico y otro distópico. Tratan varios temas como el trasporte, la agricultura, la energía, la migración y la climatología. Los videos distópicos describen una realidad que puede ser muy cierta si no se actúa sobre el cambio climático. Y los videos utópicos como su nombre indica es todo lo contrario ya que describen una realidad donde lo más importante es el cambio climático, la ecología y el bien estar por encima de los intereses gubernamentales y económicos.
 
 Lo que más me gustó es que dentro del video hay otro video como si fuese un sketch donde el presentador del informativo vuelve al presente en un viaje en el tiempo y explica las consecuencias que tendrá el planeta si no se toman medidas sobre el cambió climático.
 
