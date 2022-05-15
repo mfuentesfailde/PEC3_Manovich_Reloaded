@@ -33,7 +33,7 @@ Cuando llegas a la sala, en una de las paredes, que luego se usarán para hacer 
 
 Luego llega la proyección con toda la obra pictórica de Goya, desde sus inicios, pasando por los cuadros que realizó para la corte de Carlos III, hasta los últimos años de su vida donde sus obra se volvió más tenebrosa gracias a la guerra de independencia (1808-1814).
 
-Otra de las ventajas de las exposiciones inmersivas es disfrutar de su banda sonora al mismo tiempo que contemplas la obra de Goya y si te gusta la música tanto como a mi disfrutarás mucho escuchando a Manuel de Falla, Boccherini, Beethoven, Ravel, Tchaikovsky, entre otros. En esta [web]( https://ingoya.com/banda-sonora/) se puede escuchar su banda sonora.
+Otra de las ventajas de las exposiciones inmersivas es disfrutar de su banda sonora al mismo tiempo que contemplas la obra de Goya y si te gusta la música tanto como a mi disfrutarás mucho escuchando a Manuel de Falla, Boccherini, Beethoven, Ravel, Tchaikovsky, entre otros. En esta [web]( https://ingoya.com/banda-sonora/) se puede escuchar su banda sonora..
 
 ### El telediario del futuro ###
 
