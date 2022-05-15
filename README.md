@@ -8,7 +8,7 @@
  
 ![portada inGoya](./ingoya.png)
 
-###Introducción###
+### Introducción ###
 
 *Manovich* diferencia Multimedia con hibridación. En su libro explica que los medios multimedia son medios por separado, cuando visualizábamos un video, el ordenador está solo ejecutando ese video porque es su prioridad. Pensemos en los años noventa,  los ordenadores solo tenían capacidad para manejar algunos medios simultáneos pero su memoria era limitada y la velocidad de Internet no permitía visualizar animaciones complejas. Treinta años después el 4G y 5G nos permite una facilidad para poder entrelazar estos medios y  metamedios de forma nativa.
 
@@ -18,7 +18,7 @@ Citando a Manovich
 
 En este ensayo hablaremos de dos ejemplos de hibridación, una nueva exposición inmersiva de Goya y dos maneras de ver la realidad en un telediario del 2050.
 
-###Exposición inGoya###
+### Exposición inGoya ###
 
 Hace meses visité una exposición inmersiva de Goya, yo la visité en Madrid, aunque ahora la exposición se puede ver en [Valencia](https://ingoya.com/). Si los museos grandes te abruman porque después de ver tres salas ya estás cansado de ver cuadros, pero al mismo tiempo te gusta ver arte, prueba con exposiciones inmersivas, es un nuevo método de consumir arte mucho más divertido.
 
@@ -35,7 +35,7 @@ Luego llega la proyección con toda la obra pictórica de Goya, desde sus inicio
 
 Otra de las ventajas de las exposiciones inmersivas es disfrutar de su banda sonora al mismo tiempo que contemplas la obra de Goya y si te gusta la música tanto como a mi disfrutarás mucho escuchando a Manuel de Falla, Boccherini, Beethoven, Ravel, Tchaikovsky, entre otros. En esta [web]( https://ingoya.com/banda-sonora/) se puede escuchar su banda sonora.
 
-###El telediario del futuro###
+### El telediario del futuro ###
 
 ![Telediario del futuro](./telediario.png)
 
@@ -43,7 +43,7 @@ En esta [web]( https://lab.rtve.es/lab/telediario-2050-cambio-climatico/) la tel
 Lo que más me gustó es que dentro del video hay otro video como si fuese un sketch donde el presentador del informativo vuelve al presente en un viaje en el tiempo y explica las consecuencias que tendrá el planeta si no se toman medidas sobre el cambió climático.
 Estos videos fueron grabados en 2019, cuando se celebro en Madrid la Cumbre del Clima. Tengo la sensación de que durante estos tres años han pasado muchas más cosas que en los últimos diez años. Hablar del 2050 cuando acabamos de salir de una fuerte pandemia y ahora la guerra en Ucrania que no sabemos lo que va a pasar, hace pensar que el 2050 está demasiado lejos como para preocuparse. ¿Quién sabe? A lo mejor lanzan una bomba biológica con otro virus, pueden pasar tantas cosas hasta el 2050. 
 Pero volviendo a los vídeos, si queremos que no siga aumentando la temperatura del planeta, hay muchas cosas que día a día que podemos contribuir, como reciclar, usar el transporte público bajar un poco la calefacción etc. Por no hablar de todas las medidas que pueden tomar los gobiernos.
-###Conclusión###
+### Conclusión ###
 Si analizamos la exposición inGoya con las gafas de Manovich pienso que sería una buena hibridación ya que combina los efectos de iluminación con el arte y la música.
 En el segundo ejemplo expone información con videos y sus comentarios dentro de los mismos vídeos lo cual también es una técnica de hibridación.
 
